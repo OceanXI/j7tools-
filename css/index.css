@@ -24,3 +24,4 @@ body {
 }
 
 .cal-header {
+  flex: 1 100%;
