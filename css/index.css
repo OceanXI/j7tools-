@@ -26,3 +26,5 @@ body {
 .cal-header {
   flex: 1 100%;
   font-size: 2rem;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
