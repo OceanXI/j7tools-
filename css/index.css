@@ -33,3 +33,6 @@ body {
   margin-left: 0.7rem;
   text-transform: uppercase;
 }
+
+.cal-body {
+  display: flex;
