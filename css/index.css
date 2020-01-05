@@ -44,3 +44,4 @@ body {
 .cal-day {
   font-family: var(--font-serif);
   margin: 0.5rem;
+  padding: 0.3rem;
