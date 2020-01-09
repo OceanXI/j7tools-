@@ -47,3 +47,6 @@ body {
   padding: 0.3rem;
   width: 1.4rem;
   height: 1.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
