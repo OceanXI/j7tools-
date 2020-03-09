@@ -74,3 +74,4 @@ body {
   background-color: #fff;
 }
 .today:after {
+  border: 0.25em solid red;
