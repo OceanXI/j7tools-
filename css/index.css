@@ -75,3 +75,5 @@ body {
 }
 .today:after {
   border: 0.25em solid red;
+  border-top: none;
+  border-radius: 1.5em 1em 2em 1.5em;
