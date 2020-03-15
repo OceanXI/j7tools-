@@ -83,3 +83,5 @@ body {
   position: absolute;
   right: -0.3em;
   top: -0.1em;
+}
+.today:before {
