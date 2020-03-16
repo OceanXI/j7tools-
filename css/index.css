@@ -87,3 +87,4 @@ body {
 .today:before {
   border-radius: 0.5em;
   content: "";
+  height: 1em;
