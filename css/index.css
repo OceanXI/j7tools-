@@ -92,3 +92,5 @@ body {
   position: absolute;
   top: -0.3em;
   transform: rotate(-10deg);
+  width: 2em;
+}
