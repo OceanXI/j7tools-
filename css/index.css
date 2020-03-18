@@ -90,3 +90,5 @@ body {
   height: 1em;
   left: 0;
   position: absolute;
+  top: -0.3em;
+  transform: rotate(-10deg);
