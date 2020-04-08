@@ -99,3 +99,6 @@ body {
   html {
     font-size: 10px;
   }
+  .calendar-container {
+    margin: 0;
+    padding: 10px;
