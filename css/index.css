@@ -113,3 +113,5 @@ body {
   .cal-month,
   .cal-day {
     margin: 5px;
+    padding: 3px;
+  }
