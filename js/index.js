@@ -1,1 +1,1 @@
-window.onload =
+window.onload = i
