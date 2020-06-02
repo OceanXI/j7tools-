@@ -1,1 +1,1 @@
-window.onload = ini
+window.onload = init
