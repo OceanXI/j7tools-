@@ -1,1 +1,3 @@
 window.onload = init;
+
+fun
