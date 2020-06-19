@@ -1,3 +1,3 @@
 window.onload = init;
 
-functio
+function
