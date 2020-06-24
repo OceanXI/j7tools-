@@ -1,3 +1,3 @@
 window.onload = init;
 
-function day
+function daysI
