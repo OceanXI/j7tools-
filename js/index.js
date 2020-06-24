@@ -1,3 +1,3 @@
 window.onload = init;
 
-function daysInMo
+function daysInMon
