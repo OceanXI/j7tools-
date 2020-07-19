@@ -1,3 +1,3 @@
 window.onload = init;
 
-function daysInMonth(month, year) 
+function daysInMonth(month, year) {
