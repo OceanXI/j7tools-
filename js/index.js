@@ -1,4 +1,4 @@
 window.onload = init;
 
 function daysInMonth(month, year) {
-  return new Date(year, mont
+  return new Date(year, month
