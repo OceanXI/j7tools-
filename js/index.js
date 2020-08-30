@@ -5,3 +5,4 @@ function daysInMonth(month, year) {
 }
 
 function formatMonth(month, text, date, hideMonth = false) {
+ 
