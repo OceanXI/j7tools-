@@ -5,4 +5,4 @@ function daysInMonth(month, year) {
 }
 
 function formatMonth(month, text, date, hideMonth = false) {
-  let className = "cal-mo
+  let className = "cal-mon
