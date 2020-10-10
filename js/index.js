@@ -7,4 +7,5 @@ function daysInMonth(month, year) {
 function formatMonth(month, text, date, hideMonth = false) {
   let className = "cal-month";
   if (hideMonth && date.getMonth() > month) {
-    className += " past"
+    className += " past";
+ 
