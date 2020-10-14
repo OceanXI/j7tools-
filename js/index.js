@@ -9,4 +9,4 @@ function formatMonth(month, text, date, hideMonth = false) {
   if (hideMonth && date.getMonth() > month) {
     className += " past";
   }
-  return `<d
+  return `<di
