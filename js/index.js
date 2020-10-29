@@ -11,3 +11,4 @@ function formatMonth(month, text, date, hideMonth = false) {
   }
   return `<div class="${className}">${text}</div>`;
 }
+
