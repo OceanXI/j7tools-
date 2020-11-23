@@ -13,4 +13,4 @@ function formatMonth(month, text, date, hideMonth = false) {
 }
 
 function formatDay(month, day, date) {
-  let className = "cal-day
+  let className = "cal-day"
