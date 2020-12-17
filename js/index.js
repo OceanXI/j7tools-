@@ -16,4 +16,4 @@ function formatDay(month, day, date) {
   let className = "cal-day";
   if (
     date.getMonth() > month ||
-    (date.getMonth() === m
+    (date.getMonth() === mo
