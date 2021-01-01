@@ -17,4 +17,4 @@ function formatDay(month, day, date) {
   if (
     date.getMonth() > month ||
     (date.getMonth() === month && date.getDate() > day)
-  
+  ) 
