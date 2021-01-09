@@ -18,4 +18,4 @@ function formatDay(month, day, date) {
     date.getMonth() > month ||
     (date.getMonth() === month && date.getDate() > day)
   ) {
-    className += 
+    className += " 
