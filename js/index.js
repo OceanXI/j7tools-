@@ -19,4 +19,4 @@ function formatDay(month, day, date) {
     (date.getMonth() === month && date.getDate() > day)
   ) {
     className += " past";
-  } else if (date.getMonth() === month && date.getDate() 
+  } else if (date.getMonth() === month && date.getDate() =
