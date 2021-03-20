@@ -21,4 +21,4 @@ function formatDay(month, day, date) {
     className += " past";
   } else if (date.getMonth() === month && date.getDate() === day) {
     className += " today";
- 
+  }
