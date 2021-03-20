@@ -22,3 +22,4 @@ function formatDay(month, day, date) {
   } else if (date.getMonth() === month && date.getDate() === day) {
     className += " today";
   }
+ 
