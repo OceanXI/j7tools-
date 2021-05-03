@@ -23,3 +23,5 @@ function formatDay(month, day, date) {
     className += " today";
   }
   return `<div class="${className}">${day}</div>`;
+}
+
