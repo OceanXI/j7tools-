@@ -25,3 +25,4 @@ function formatDay(month, day, date) {
   return `<div class="${className}">${day}</div>`;
 }
 
+c
