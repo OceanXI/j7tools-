@@ -25,4 +25,4 @@ function formatDay(month, day, date) {
   return `<div class="${className}">${day}</div>`;
 }
 
-const MONTHS = ["J", "F", "M", "A", "M", "J", "J", "A"
+const MONTHS = ["J", "F", "M", "A", "M", "J", "J", "A",
