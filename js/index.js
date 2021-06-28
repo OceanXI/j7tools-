@@ -27,4 +27,4 @@ function formatDay(month, day, date) {
 
 const MONTHS = ["J", "F", "M", "A", "M", "J", "J", "A", "S", "O", "N", "D"];
 
-function getContent(date) 
+function getContent(date) {
