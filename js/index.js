@@ -30,4 +30,4 @@ const MONTHS = ["J", "F", "M", "A", "M", "J", "J", "A", "S", "O", "N", "D"];
 function getContent(date) {
   var ret = [];
   for (let i = 0; i < 12; i++) {
-    ret.push(form
+    ret.push(forma
