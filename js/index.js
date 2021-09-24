@@ -31,4 +31,4 @@ function getContent(date) {
   var ret = [];
   for (let i = 0; i < 12; i++) {
     ret.push(formatMonth(i, MONTHS[i], date));
-    const days = 
+    const days = d
