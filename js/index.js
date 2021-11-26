@@ -32,4 +32,4 @@ function getContent(date) {
   for (let i = 0; i < 12; i++) {
     ret.push(formatMonth(i, MONTHS[i], date));
     const days = daysInMonth(i, date.getFullYear());
-    for (let j = 0; j < days; j++) 
+    for (let j = 0; j < days; j++) {
