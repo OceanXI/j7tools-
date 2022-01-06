@@ -36,4 +36,4 @@ function getContent(date) {
       ret.push(formatDay(i, j + 1, date));
     }
   }
-  ret
+  retu
