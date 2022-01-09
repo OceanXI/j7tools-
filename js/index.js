@@ -37,3 +37,4 @@ function getContent(date) {
     }
   }
   return ret;
+}
