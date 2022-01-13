@@ -39,4 +39,4 @@ function getContent(date) {
   return ret;
 }
 
-functi
+function
