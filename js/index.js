@@ -40,3 +40,4 @@ function getContent(date) {
 }
 
 function init() {
+ 
