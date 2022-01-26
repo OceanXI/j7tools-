@@ -40,4 +40,4 @@ function getContent(date) {
 }
 
 function init() {
-  const date = wi
+  const date = win
