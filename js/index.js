@@ -40,4 +40,4 @@ function getContent(date) {
 }
 
 function init() {
-  const date = wind
+  const date = windo
