@@ -40,4 +40,4 @@ function getContent(date) {
 }
 
 function init() {
-  const date = window.mo
+  const date = window.moc
