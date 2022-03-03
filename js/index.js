@@ -41,3 +41,4 @@ function getContent(date) {
 
 function init() {
   const date = window.mockDate || new Date();
+ 
