@@ -41,4 +41,4 @@ function getContent(date) {
 
 function init() {
   const date = window.mockDate || new Date();
-  const container = document.getElementById("body"
+  const container = document.getElementById("body")
