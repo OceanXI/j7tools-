@@ -43,3 +43,4 @@ function init() {
   const date = window.mockDate || new Date();
   const container = document.getElementById("body");
   const content = getContent(date).join("");
+ 
