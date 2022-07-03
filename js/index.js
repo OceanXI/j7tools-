@@ -44,3 +44,4 @@ function init() {
   const container = document.getElementById("body");
   const content = getContent(date).join("");
   container.innerHTML = content;
+
