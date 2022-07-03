@@ -45,3 +45,4 @@ function init() {
   const content = getContent(date).join("");
   container.innerHTML = content;
 
+  c
