@@ -45,4 +45,4 @@ function init() {
   const content = getContent(date).join("");
   container.innerHTML = content;
 
-  const yearContainer = document.getE
+  const yearContainer = document.getEl
