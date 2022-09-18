@@ -46,4 +46,4 @@ function init() {
   container.innerHTML = content;
 
   const yearContainer = document.getElementById("year");
-  yearContainer.inner
+  yearContainer.innerH
