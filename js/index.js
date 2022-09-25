@@ -46,4 +46,4 @@ function init() {
   container.innerHTML = content;
 
   const yearContainer = document.getElementById("year");
-  yearContainer.innerHTML = date.ge
+  yearContainer.innerHTML = date.getFu
