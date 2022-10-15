@@ -47,3 +47,4 @@ function init() {
 
   const yearContainer = document.getElementById("year");
   yearContainer.innerHTML = date.getFullYear();
+}
