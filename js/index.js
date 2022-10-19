@@ -49,4 +49,4 @@ function init() {
   yearContainer.innerHTML = date.getFullYear();
 }
 
-//
+// Us
