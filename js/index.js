@@ -49,4 +49,4 @@ function init() {
   yearContainer.innerHTML = date.getFullYear();
 }
 
-// Using refr
+// Using refre
