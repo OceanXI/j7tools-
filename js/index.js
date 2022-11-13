@@ -49,4 +49,4 @@ function init() {
   yearContainer.innerHTML = date.getFullYear();
 }
 
-// Using refresh('04/04/2024') to t
+// Using refresh('04/04/2024') to te
