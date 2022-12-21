@@ -50,4 +50,4 @@ function init() {
 }
 
 // Using refresh('04/04/2024') to test.
-function refresh(tim
+function refresh(time
