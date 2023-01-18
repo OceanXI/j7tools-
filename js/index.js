@@ -51,4 +51,4 @@ function init() {
 
 // Using refresh('04/04/2024') to test.
 function refresh(time) {
-  window.mockDate = new Date(
+  window.mockDate = new Date(t
