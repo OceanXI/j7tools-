@@ -53,3 +53,4 @@ function init() {
 function refresh(time) {
   window.mockDate = new Date(time);
   init();
+}
