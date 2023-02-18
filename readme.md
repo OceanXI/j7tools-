@@ -7,3 +7,4 @@ Copy from old repo
 
 ```shell
 npm -g install static-server
+```
