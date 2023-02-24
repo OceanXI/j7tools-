@@ -11,3 +11,4 @@ npm -g install static-server
 
 ```shell
 static-server
+```
